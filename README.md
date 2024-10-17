@@ -1,2 +1,2 @@
 # Please view my CV at:
-htps://Dave-Mbalo.github.io
+https://Dave-Mbalo.github.io
